@@ -4,9 +4,12 @@
 <%
 	String path = request.getContextPath();
 	String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/static/";
+
+
 %>
-本机这边
-本机这边
+主机这边
+主机这边
+
 <!DOCTYPE html>
 
 <html lang="en">
