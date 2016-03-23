@@ -6,7 +6,7 @@
 	String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/static/";
 %>
 
-sdfsdfss
+sdfsdfss所发生的事dasdas
 sfsdfsfsdfsdfsfwww
 <!DOCTYPE html>
 
