@@ -7,14 +7,14 @@
 
 
 %>
-主机这边
-主机这边
+本机这边11
+本机这边11
 
 <!DOCTYPE html>
 
 <html lang="en">
 	<head>
-		<base href="<%=basePath%>">
+		<base href="<%=basePath%>">222
 		<meta charset="utf-8" />
 		<title></title>
 		 
