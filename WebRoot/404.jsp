@@ -42,7 +42,7 @@
 <div class="error-container">
 <div class="well">
 	<h1 class="grey lighter smaller">
-		<span class="blue bigger-125"><i class="icon-sitemap"></i> 444</span> 没有找到此页面
+		<span class="blue bigger-125"><i class="icon-sitemap"></i> 666</span> 没有找到此页面
 	</h1>
 	<hr />
 	<h3 class="lighter smaller">We looked everywhere but we couldn't find it!</h3>
