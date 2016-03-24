@@ -9,7 +9,7 @@
 %>
 
 
-aaaassbbxcxzczzxczxc
+aaaa
 
 
 
@@ -77,42 +77,4 @@ aaaassbbxcxzczzxczxc
 		<ul class="unstyled spaced inline bigger-110">
 			<li><i class="icon-hand-right blue"></i> 检查路径是不是有误</li>
 			<li><i class="icon-hand-right blue"></i> 检查代码是不是有误</li>
-			<li><i class="icon-hand-right blue"></i> 检查环境配置是不是有误</li>
-		</ul>
-	</div>
-	
-	<hr />
-	<div class="space"></div>
-	
-	<div class="row-fluid">
-		<div id="zhongxin">
-		</div>
-	</div>
-</div>
-</div>
-<!-- PAGE CONTENT ENDS HERE -->
-						 </div><!--/row-->
-	
-					</div><!--/#page-content-->
-					  
-			</div><!-- #main-content -->
-		</div><!--/.fluid-container#main-container-->
-		<!-- basic scripts -->
-		<script src="1.9.1/jquery.min.js"></script>
-		<script type="text/javascript">
-		window.jQuery || document.write("<script src='js/jquery-1.9.1.min.js'>\x3C/script>");
-		</script>
-		
-		<script src="js/bootstrap.min.js"></script>
-		<!-- page specific plugin scripts -->
-		
-		<!-- ace scripts -->
-		<script src="js/ace-elements.min.js"></script>
-		<script src="js/ace.min.js"></script>
-		<!-- inline scripts related to this page -->
-		
-		<script type="text/javascript">
-		$(top.hangge());
-		</script>
-	</body>
-</html>
+			<li><i class="icon-hand-right blue"></i> 检查环境配置
